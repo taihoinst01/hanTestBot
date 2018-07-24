@@ -57,3 +57,62 @@ C:\Users\user\source\repos\nhchatbot\obj\Debug\nhChatBot.csproj.CoreCompileInput
 C:\Users\user\source\repos\nhchatbot\obj\Debug\nhChatBot.csproj.CopyComplete
 C:\Users\user\source\repos\nhchatbot\obj\Debug\Bot Application.dll
 C:\Users\user\source\repos\nhchatbot\obj\Debug\Bot Application.pdb
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Bot Application.dll.config
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Bot Application.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Bot Application.pdb
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Autofac.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Castle.Core.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Chronic.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Moq.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Newtonsoft.Json.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\System.Net.Http.Formatting.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\System.Web.Http.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\System.Web.Http.WebHost.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Autofac.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Castle.Core.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Moq.pdb
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Moq.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\Newtonsoft.Json.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\System.Net.Http.Formatting.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\System.Web.Http.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\System.Web.Http.WebHost.xml
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\obj\Debug\nhChatBot.csprojAssemblyReference.cache
+C:\Users\sjhan\Source\Repos\hanTestBot\obj\Debug\nhChatBot.csproj.CoreCompileInputs.cache
+C:\Users\sjhan\Source\Repos\hanTestBot\obj\Debug\nhChatBot.csproj.CopyComplete
+C:\Users\sjhan\Source\Repos\hanTestBot\obj\Debug\Bot Application.dll
+C:\Users\sjhan\Source\Repos\hanTestBot\obj\Debug\Bot Application.pdb
