@@ -1,0 +1,14 @@
+07-24-2018 06:35:54.415: db connect !! 
+07-24-2018 06:35:54.415: db connect !! 
+07-24-2018 06:35:54.418: db SelectConfig start !! 
+07-24-2018 06:35:54.624: db conn SelectConfig !!
+07-24-2018 06:35:54.639: * cnfNm : 루이스제한 || cnfValue : 3000
+07-24-2018 06:35:54.641: * cnfNm : 루이스구독 || cnfValue : cb936e11a8224a0eb5c8ae149be2bd0c
+07-24-2018 06:35:54.642: * cnfNm : 루이스스코어 || cnfValue : 0.1
+07-24-2018 06:35:54.644: * cnfNm : nh || cnfValue : 3c5a9e28-f343-4ba0-a2d3-8babe9905cac
+07-24-2018 06:35:54.645: db SelectConfig end!! 
+07-24-2018 06:35:54.648: * DB conn : conversationUpdate
+07-24-2018 06:35:54.655:  db SelectInitDialog !! 
+07-24-2018 06:35:55.809: * activity.Type : 
+07-24-2018 06:35:55.809: * activity.Recipient.Id : l37nca19m
+07-24-2018 06:35:55.810: * activity.ServiceUrl : http://localhost:49653
