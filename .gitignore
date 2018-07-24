@@ -3,3 +3,9 @@
 ################################################################################
 
 *.lock
+/.vs/nhchatbot/v15
+/.vs/nhchatbot/DesignTimeBuild
+/.vs/config
+/.vs/cjlogisticsChatBot/v15
+/.vs/hanTestBot/v15
+/.vs
