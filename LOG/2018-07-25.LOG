@@ -1,0 +1,14 @@
+07-25-2018 02:44:09.161: db connect !! 
+07-25-2018 02:44:09.271: 'C:\Users\sjhan\Source\Repos\hanTestBot\LOG\2018-07-25.LOG' 파일은 다른 프로세스에서 사용 중이므로 프로세스에서 액세스할 수 없습니다.
+07-25-2018 02:44:09.272: db SelectConfig start !! 
+07-25-2018 02:44:09.538: db conn SelectConfig !!
+07-25-2018 02:44:09.551: * cnfNm : 루이스제한 || cnfValue : 3000
+07-25-2018 02:44:09.553: * cnfNm : 루이스구독 || cnfValue : cb936e11a8224a0eb5c8ae149be2bd0c
+07-25-2018 02:44:09.554: * cnfNm : 루이스스코어 || cnfValue : 0.1
+07-25-2018 02:44:09.555: * cnfNm : nh || cnfValue : 3c5a9e28-f343-4ba0-a2d3-8babe9905cac
+07-25-2018 02:44:09.557: db SelectConfig end!! 
+07-25-2018 02:44:09.559: * DB conn : conversationUpdate
+07-25-2018 02:44:09.566:  db SelectInitDialog !! 
+07-25-2018 02:44:10.547: * activity.Type : 
+07-25-2018 02:44:10.547: * activity.Recipient.Id : l37nca19m
+07-25-2018 02:44:10.547: * activity.ServiceUrl : http://localhost:49653
